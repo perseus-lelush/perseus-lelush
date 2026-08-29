@@ -28,10 +28,3 @@ databases, UI/UX, and application development.
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
-
----
-
-## Currently Learning
-
-- Artificial Intelligence and Machine Learning
-- UI/UX Design
