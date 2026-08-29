@@ -53,8 +53,16 @@ databases, UI/UX, and application development.
 
 ## Currently Learning
 
+- Software Architecture
+- Data Structures & Algorithms
+- Backend Engineering
+- Database Design
+- System Design
 - Artificial Intelligence and Machine Learning
 - UI/UX Design
+- C
+- C++
+- C#
 
 ---
 
