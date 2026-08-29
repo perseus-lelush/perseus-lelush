@@ -1,9 +1,3 @@
-# Joshan Lucmayan
-
-Software Engineer in progress.
-
-I build software to understand how systems work.
-
 Interested in backend engineering, software architecture, AI systems,
 databases, UI/UX, and application development.
 
