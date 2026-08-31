@@ -62,9 +62,3 @@ databases, UI/UX, and application development.
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
-
-#### Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=perseus-lelush&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=perseus-lelush&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=perseus-lelush&theme=tokyonight)
