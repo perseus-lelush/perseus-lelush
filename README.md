@@ -3,9 +3,11 @@ databases, UI/UX, and application development.
 
 #### Contributions
 
-<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/perseus-lelush/perseus-lelush/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/perseus-lelush/perseus-lelush/output/github-contribution-grid-snake.svg">
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/perseus-lelush/perseus-lelush/output/github-contribution-grid-snake.svg">
-</p>
+</picture>
 
 #### Languages
 
@@ -63,11 +65,6 @@ databases, UI/UX, and application development.
 
 #### Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=perseus-lelush&show_icons=true&theme=github_dark&hide_border=true" width="48%">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=perseus-lelush&theme=github_dark&hide_border=true" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perseus-lelush&layout=compact&theme=github_dark&hide_border=true" width="48%">
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=perseus-lelush&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=perseus-lelush&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=perseus-lelush&theme=tokyonight)
