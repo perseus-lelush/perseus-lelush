@@ -2,9 +2,11 @@ name: Generate Snake
 
 on:
   schedule:
-    # Fallback refresh - keeps the snake fresh even for commits in repos that
-    # don't dispatch a snake-refresh event (e.g. Expense-Tracker).
-    - cron: "*/30 * * * *"
+    # Fallback refresh - covers ALL repos (existing and future) with zero
+    # per-repo setup. GitHub's minimum cron interval is 5 minutes; under peak
+    # load runs may be delayed, and hierarchy_class additionally dispatches an
+    # instant snake-refresh event on every push.
+    - cron: "*/5 * * * *"
   workflow_dispatch:
   push:
     branches: ["main"]
