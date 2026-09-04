@@ -2,10 +2,16 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    # Fallback refresh - keeps the snake fresh even for commits in repos that
+    # don't dispatch a snake-refresh event (e.g. Expense-Tracker).
+    - cron: "*/30 * * * *"
   workflow_dispatch:
   push:
     branches: ["main"]
+  # Fired by other repos (e.g. hierarchy_class) right after each push, so the
+  # snake updates within seconds of committing instead of waiting for cron.
+  repository_dispatch:
+    types: [snake-refresh]
 
 permissions:
   contents: write
